@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Stub.cpp
+    正在创建库 F:\学习文档\Files-With-Encrypt-And-Decrypt\chap19\19.4  用C++编写外壳部分\pepack64\\Release\Stub.lib 和对象 F:\学习文档\Files-With-Encrypt-And-Decrypt\chap19\19.4  用C++编写外壳部分\pepack64\\Release\Stub.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+Stub.obj : warning LNK4254: 节“.data”(C0000040)合并到具有不同特性的“.text”(60000020)
+  Stub.vcxproj -> F:\学习文档\Files-With-Encrypt-And-Decrypt\chap19\19.4  用C++编写外壳部分\pepack64\Release\Stub.dll

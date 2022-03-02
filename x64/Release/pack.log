@@ -1,0 +1,9 @@
+﻿  PE.cpp
+  pack.cpp
+E:\Study\pack\pack.cpp(15,20): warning C4477: “swscanf_s”: 格式字符串“%p”需要类型“void **”的参数，但可变参数 1 拥有了类型“ULONGLONG *”
+  正在生成代码
+  3 of 174 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  pack.vcxproj -> E:\Study\pack\Release\pack.exe

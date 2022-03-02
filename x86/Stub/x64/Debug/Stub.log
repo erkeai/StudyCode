@@ -1,0 +1,25 @@
+﻿  pch.cpp
+  Stub.cpp
+C:\Users\16434\Desktop\01_加壳Msg完成\07_加壳项目\Share.h(63,48): warning C4311: “类型强制转换”: 从“char *”到“DWORD”的指针截断
+C:\Users\16434\Desktop\01_加壳Msg完成\07_加壳项目\Share.h(63,48): warning C4302: “类型强制转换”: 从“char *”到“DWORD”截断
+C:\Users\16434\Desktop\01_加壳Msg完成\07_加壳项目\Share.h(63,49): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_NT_HEADERS”
+C:\Users\16434\Desktop\01_加壳Msg完成\Stub\Stub.cpp(44,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\Users\16434\Desktop\01_加壳Msg完成\Stub\Stub.cpp(46,3): error C2065: “push”: 未声明的标识符
+C:\Users\16434\Desktop\01_加壳Msg完成\Stub\Stub.cpp(46,8): error C2146: 语法错误: 缺少“;”(在标识符“esi”的前面)
+C:\Users\16434\Desktop\01_加壳Msg完成\Stub\Stub.cpp(46,8): error C2065: “esi”: 未声明的标识符
+C:\Users\16434\Desktop\01_加壳Msg完成\Stub\Stub.cpp(47,3): error C2065: “mov”: 未声明的标识符
+C:\Users\16434\Desktop\01_加壳Msg完成\Stub\Stub.cpp(47,7): error C2146: 语法错误: 缺少“;”(在标识符“esi”的前面)
+C:\Users\16434\Desktop\01_加壳Msg完成\Stub\Stub.cpp(47,7): error C2065: “esi”: 未声明的标识符
+C:\Users\16434\Desktop\01_加壳Msg完成\Stub\Stub.cpp(47,12): error C2065: “fs”: 未声明的标识符
+C:\Users\16434\Desktop\01_加壳Msg完成\Stub\Stub.cpp(47,14): error C2143: 语法错误: 缺少“;”(在“:”的前面)
+C:\Users\16434\Desktop\01_加壳Msg完成\Stub\Stub.cpp(47,14): error C2059: 语法错误:“:”
+C:\Users\16434\Desktop\01_加壳Msg完成\Stub\Stub.cpp(48,3): error C2065: “mov”: 未声明的标识符
+C:\Users\16434\Desktop\01_加壳Msg完成\Stub\Stub.cpp(48,7): error C2146: 语法错误: 缺少“;”(在标识符“esi”的前面)
+C:\Users\16434\Desktop\01_加壳Msg完成\Stub\Stub.cpp(48,7): error C2065: “esi”: 未声明的标识符
+C:\Users\16434\Desktop\01_加壳Msg完成\Stub\Stub.cpp(48,17): error C2143: 语法错误: 缺少“]”(在“+”的前面)
+C:\Users\16434\Desktop\01_加壳Msg完成\Stub\Stub.cpp(48,17): error C3481: “esi”: 未找到 lambda 捕获变量
+C:\Users\16434\Desktop\01_加壳Msg完成\Stub\Stub.cpp(48,17): error C3260: “+”: 跳过 lambda 主体之前的意外标记
+C:\Users\16434\Desktop\01_加壳Msg完成\Stub\Stub.cpp(61,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\Users\16434\Desktop\01_加壳Msg完成\Stub\Stub.cpp(67,1): error C3481: “edx”: 未找到 lambda 捕获变量
+C:\Users\16434\Desktop\01_加壳Msg完成\Stub\Stub.cpp(67,1): error C3493: 无法隐式捕获“edx”，因为尚未指定默认捕获模式
+C:\Users\16434\Desktop\01_加壳Msg完成\Stub\Stub.cpp(186,1): fatal error C1004: 发现意外的文件尾

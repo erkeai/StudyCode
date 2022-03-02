@@ -1,0 +1,12 @@
+﻿  pack.cpp
+E:\Study\pack\pack.cpp(15,20): warning C4477: “swscanf_s”: 格式字符串“%p”需要类型“void **”的参数，但可变参数 1 拥有了类型“ULONGLONG *”
+  PE.cpp
+  pepack.cpp
+E:\Study\pack\pepack.cpp(80,45): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“PBYTE”
+E:\Study\pack\pepack.cpp(96,55): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+E:\Study\pack\pepack.cpp(96,55): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 169 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  pack.vcxproj -> E:\Study\pack\x64\Release\pack.exe
